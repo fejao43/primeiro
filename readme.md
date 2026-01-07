@@ -8,4 +8,4 @@ java
 javascript
 c
 c++
-linux
+linux arch com hyperland
