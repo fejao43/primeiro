@@ -3,4 +3,9 @@ omarchyOS
 joaoricardo
 flamengo
 
-atualização gostosa
+python
+java
+javascript
+c
+c++
+linux
