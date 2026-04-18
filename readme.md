@@ -1,11 +1,1 @@
-#GitHUB
-omarchyOS
-joaoricardo
-flamengo
-
-python
-java
-javascript
-c
-c++
-linux arch com hyperland
+estudos de git com python de um estudande de ensino medio
